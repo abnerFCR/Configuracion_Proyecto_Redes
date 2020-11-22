@@ -134,6 +134,11 @@ router eigrp 555
 ```
 
 ## Capturas de Paquetes
+#### Topología 1  
+Se capturaron paquetes desde linux1 hasta linux3
+![image](https://user-images.githubusercontent.com/37677468/99903759-1be57c00-2c8c-11eb-8db1-2e53f5772d59.png)  
+
+#### Topología 2  
 
 Se capturaron paquetes en la interfaz activa con un ping desde una maquina en la vlan 77 hacia R1.
 
